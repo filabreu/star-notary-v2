@@ -1,3 +1,8 @@
+# Token Information
+#### ERC-721 Token Name: Star Notary
+#### ERC-721 Token Symbol: STAR
+#### Token Address on Rinkeby network: 0xB992900F3F8014c8261197B58693fB5DEA11e738
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
